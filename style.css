@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background:blanchedalmond;
+}
+
+
+.btncont{
+    display: flex;
+    justify-content: center;
+    
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    margin: 1.5rem;
+    border-radius: 20%;
+}
+.orange{
+    background: #fd912b;
+}
+.pink{
+    background:#ff417a;
+}
+.blue{
+    background:#3a6bff;
+}
+.green{
+    background:#4afb50;
+}
+
+.flash{
+    background: white;
+}
+.userflash{
+    background: green;
+}
